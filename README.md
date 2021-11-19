@@ -1,10 +1,9 @@
-# trc2021
 ## Welcome!
 
-Contents in this site are the codes for TRC 2021 training videos. If you have an                                                                                        y questions, please feel free to send an email via trc2021 (at) thinklab.ph
+Contents in this site are the codes for TRC 2021 training videos. If you have any questions, please feel free to send an email via trc2021 (at) thinklab.ph
 
 ### Notice
 
-THE SOURCE CODES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL                                                                                        IED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR                                                                                         A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+THE SOURCE CODES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com                                                                                        /categories/github-pages-basics/) or [contact support](https://github.com/contac                                                                                        t) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
